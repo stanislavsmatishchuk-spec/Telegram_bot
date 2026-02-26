@@ -1,0 +1,8 @@
+# Telegram Bot framework — async, modern, actively maintained
+python-telegram-bot==21.6
+
+# Background task scheduler — async-compatible
+APScheduler==3.10.4
+
+# Load BOT_TOKEN from a .env file (keeps secrets out of source code)
+python-dotenv==1.0.1
